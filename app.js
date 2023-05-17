@@ -81,22 +81,18 @@
     //  Escribe un programa que pida una frase y escriba las vocales que aparecen
     //  Nota: Tener en cuenta la función length y substring o charAt (developer mozilla)
 
-    //  let frase = prompt("Ingrese una fraes").toLowerCase();
-    //  let largo = frase.length;
-    //  let vocales = "";
-    //  let caracter;
-    //  let i = 0;
-      
-    //  while (i < largo){
-    //     caracter = frase.substring(i, i+1)
+    
+    //     let frase = prompt("Ingrese una frase");
+    
+    //     for(let i = 0; i < frase.length; i++) {
+    //         let vocal = frase.charAt(i);
 
-    //     if (caracter == "a" || caracter == "e" || caracter == "i" || caracter == "o" || caracter == "u" ){
-    //         vocales = vocales+caracter;
+    //         if (vocal == "a" || vocal == "e" || vocal == "i" || vocal == "o" || vocal == "u" || 
+    // 						vocal == "A" || vocal == "E" || vocal == "I" || vocal == "O" || vocal == "U")
+    // 		   {
+    // 		document.write(frase.charAt(i));
+    //   				}
     //     }
-    //     i = i+1;
-    //  }
-    //   document.write(vocales);
-        
     
 
 
